@@ -19,6 +19,7 @@ public class TextMain {
 		game1.getTable().placeTile(tile3, 1, 0);
 		game1.getTable().placeTile(tile4, 2, 0);
 		game1.getTable().placeTile(tile5, 2, 1);
+		System.out.println("Test");
 		System.out.println(game1.toString());
 		
 	}
