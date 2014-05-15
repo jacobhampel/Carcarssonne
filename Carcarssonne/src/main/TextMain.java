@@ -21,6 +21,7 @@ public class TextMain {
 		game1.getTable().placeTile(tile5, 2, 1);
 		System.out.println("Test");
 		System.out.println(game1.toString());
+		System.out.println("huhu");
 		
 	}
 
