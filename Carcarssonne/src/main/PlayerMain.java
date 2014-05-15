@@ -10,11 +10,7 @@ public class PlayerMain {
 		Game game = new Game(10,10);
 		new GameFrame(game);
 		
-		
-		
-		
-		
-		
+				
 	
 	}
 
